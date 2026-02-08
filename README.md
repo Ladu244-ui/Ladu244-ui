@@ -1,7 +1,9 @@
+---
+
 # Hey, I'm Emmanuel Ladu Silvio Stakio 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=ness+Information+Technology+Student;Full-Stack+Developer;AI+Enthusiast;Hackathon+Problem+Solver" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Business+Information+Technology+Student;Full-Stack+Developer;AI+Enthusiast;Hackathon+Problem+Solver" alt="Typing SVG">
 </div>
 
 <div align="center">
@@ -44,55 +46,97 @@ class EmmanuelLaduSilvio:
             "Aya – AI safety mobile app",
             "Motus x UJ Hackathon – ML Sales Prediction (Top 8 Finalist)"
         ]
-        self.skills = [
-            "Python", "JavaScript", "C#", "PHP",
-            "React", "React Native", "Node.js",
-            "HTML", "CSS", "MySQL", "MSSQL",
-            "Supervised Machine Learning"
-        ]
+        self.skills = ["Python", "JavaScript", "C#", "PHP", "React", "React Native", "Node.js", "HTML", "CSS", "MySQL", "MSSQL", "Supervised Machine Learning"]
         self.languages = ["English", "Arabic (Sudanese)", "Bari"]
         self.hobbies = ["Music – Gregorian & Classical", "Soccer"]
-Technical Skills
+```
+
+---
+
+## Technical Skills
+
 <div align="center">
-Programming & Web
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-Frameworks & Full-Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
-AI & Data
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> </div>
-Featured Projects & Hackathons
-Project / Event	Description	Achievement / Tech Stack
-TripsByMoses	Transportation mobile & web app	React, Flutter, Firebase
-ProzSphere	School award-winning project	Best 2nd Year Project 2025
-Aya	AI Safety Mobile App	School Project
-Motus x UJ Hackathon	ML-based Sales Prediction	Top 8 Finalist
-NASA App Challenge	Exoplanet Prediction App	2nd Place
-SMU Hackathon	Cough Detection using ML	Machine Learning Techniques
-Achievements & Recognition
-Best School Group Project – ProSphere
 
-Top Achiever 2025 – Business IT
+### Programming & Web
 
-Top 8 Finalist – Motus x UJ Hackathon
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>  
 
-2nd Place – NASA App Challenge
+### Frameworks & Full-Stack
 
-FNB App of the Year Nominee – ProSphere
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>  
 
-Volunteering & Leadership
-Member, Technopreneurship Centre
+### Databases
 
-Mentor, UJ Peer Mentorship Program
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>  
 
-Group Leader, ProSphere, AyaAI Projects & Hackathons
+### AI & Data
 
-Languages & Interests
-Languages: English (Fluent), Arabic (Sudanese) (Fluent), Bari (Fluent)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>  
 
-Interests: Music (Gregorian & Classical), Soccer
+</div>
 
-Let's Connect
-<div align="center"> <a href="https://github.com/Ladu244-ui"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/emmanuel-ladu-silvio-stakio-309660265/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:mmnlsilvio@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=000&animation=twinkling" width="100%"/> <br> <i>Learning today, building tomorrow, innovating forever.</i> </div> ```
+---
+
+## Featured Projects & Hackathons
+
+| Project / Event          | Description                     | Achievement / Tech Stack    |
+| ------------------------ | ------------------------------- | --------------------------- |
+| **TripsByMoses**         | Transportation mobile & web app | React, Flutter, Firebase    |
+| **ProzSphere**           | School award-winning project    | Best 2nd Year Project 2025  |
+| **Aya**                  | AI Safety Mobile App            | School Project              |
+| **Motus x UJ Hackathon** | ML-based Sales Prediction       | Top 8 Finalist              |
+| **NASA App Challenge**   | Exoplanet Prediction App        | 2nd Place                   |
+| **SMU Hackathon**        | Cough Detection using ML        | Machine Learning Techniques |
+
+---
+
+## Achievements & Recognition
+
+* Best School Group Project – ProSphere
+* Top Achiever 2025 – Business IT
+* Top 8 Finalist – Motus x UJ Hackathon
+* 2nd Place – NASA App Challenge
+* FNB App of the Year Nominee – ProSphere
+
+---
+
+## Volunteering & Leadership
+
+* Member, Technopreneurship Centre
+* Mentor, UJ Peer Mentorship Program
+* Group Leader, ProSphere, AyaAI Projects & Hackathons
+
+---
+
+## Languages & Interests
+
+* **Languages:** English (Fluent), Arabic (Sudanese) (Fluent), Bari (Fluent)
+* **Interests:** Music (Gregorian & Classical), Soccer
+
+---
+
+## Let's Connect
+
+<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ladu244-ui)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-ladu-silvio-stakio-309660265/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmnlsilvio@gmail.com)
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
+<br>
+*"Learning today, building tomorrow, innovating forever."*
+</div>
+
+---
