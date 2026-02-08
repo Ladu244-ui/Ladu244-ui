@@ -72,7 +72,6 @@ class EmmanuelLaduSilvio:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>  
 
-### Databases
 
 ### Databases
 <div align="center">
