@@ -137,8 +137,10 @@ class EmmanuelLaduSilvio:
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
-<br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=000&animation=twinkling" width="100%"/>
+  <br>
+</div>
+
 *"Learning today, building tomorrow, innovating forever."*
 </div>
 
